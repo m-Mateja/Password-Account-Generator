@@ -2,7 +2,7 @@
 import pandas as pd
 import random
 
-df = pd.read_excel(r'C:\Users\mateya\Desktop\InstagramBotInfo.xlsx')
+df = pd.read_excel(r'')
 'print(df.to_string())'
 
 row = 0
